@@ -3,7 +3,7 @@
 ![souvenirNFTMintingApp](https://user-images.githubusercontent.com/43053791/156301380-3727e6dd-324c-4059-bf33-bf3ee0c0d252.PNG)
 
 I made a simple app in which people can receive a souvenir NFT(Non Fungible Token) when they visit places like museum, art gallary etc.<br>
-This app is purposed to be installed near the museum for everyone to be accessible to receive their NFTs.<br><br>
+A tablet with this app is purposed to be set near the museum for everyone to be accessible to receive their NFTs.<br><br>
 
 #1 Client side is programmed by Flutter.<br>
 #2 The main page shows scrollable lists of NFT image the client wants to receive.<br>
