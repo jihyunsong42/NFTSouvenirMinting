@@ -14,5 +14,5 @@ I used Klaytn blockchain(EVM Compatible) to implement this.<br>
 #6 The server (Klip App2App SDK was used to implement this.)<br>
 
 ![klip app2app workflow](https://user-images.githubusercontent.com/43053791/156303647-0e6e5c3e-6b58-4503-ae26-73dc5f23ea52.png)
-Fig.1) Klip App2App SDK workflow<br>
+Fig.1) Klip App2App SDK workflow<br><br>
 #7 I added "Purchase" Function to sell NFTs but it is excluded in this prototype.
