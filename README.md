@@ -6,7 +6,7 @@ I made a simple app in which people can receive a souvenir NFT(Non Fungible Toke
 A tablet with this app is purposed to be set near the museum for everyone to be accessible to receive their NFTs.<br><br>
 
 #1 Client-side app is programmed by Flutter.<br>
-#2 The main page shows scrollable lists of NFT image the client wants to receive.<br>
+#2 The main page of the app shows scrollable lists of NFT image the client wants to receive.<br>
 #3 When client taps the image, the tablet camera turns on and QR scanning screen pops up to read customer's blockchain(Ethereum) wallet address. I used Klaytn blockchain(EVM Compatible) to implement this.<br>
 #4 Customer scans their wallet QR Code.<br>
 #5 The Client App sends minting request(POST) to Back-End server(node.js & express.js)<br>
