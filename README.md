@@ -14,5 +14,6 @@ A tablet with this app is purposed to be set near the museum for everyone to be 
 
 ![klip app2app workflow](https://user-images.githubusercontent.com/43053791/156303647-0e6e5c3e-6b58-4503-ae26-73dc5f23ea52.png)
 Fig.1) Klip App2App SDK workflow<br><br>
+#6 minting and transfer function in smart contract is executed.<br>
 #7 The client finally receives NFTs in their mobile wallet!<br>
 ※ "Purchase" Function was added to sell NFTs but it is excluded in this prototype.
