@@ -2,9 +2,14 @@
 
 ![souvenirNFTMintingApp](https://user-images.githubusercontent.com/43053791/156301380-3727e6dd-324c-4059-bf33-bf3ee0c0d252.PNG)
 
+I made a simple app in which people can receive a souvenir NFT(Non Fungible Token) when they visted sites such as museum, art gallary etc.
+This app is purposed to be installed near the museum for everyone to be accessible to receive their NFTs.
 
-#1 Angular is used for Front-End.
-#2 Django and Django Rest Framework is used to implement back-end server.
-#3 For UI, Bootstrap 4 and Font Awesome 4 were used. HighCharts, Pandas were also used to display charts.
-#4 The main page shows KOSPI stock chart, and if you select other market tabs, the chart changes.
-#5 You can scale in/out stock charts by clicking time units.
+#1 Client side is programmed by Flutter.<br>
+#2 The main page shows scrollable lists of NFT image which client wants to receive.<br>
+#3 When client tap the image, the QR scanner pops up to read customer's blockchain(Ethereum) wallet address.<br>
+I used Klaytn blockchain(EVM Compatible) to implement this.<br>
+#4 Customer scans their wallet QR Code.<br>
+#5 The Client App sends minting request to Back-End server(node.js & express.js)<br>
+#6 The server (Klip App2App SDK was used to implement this.)
+#7 I added "Purchase" Function to sell NFTs but it is excluded in this prototype.
