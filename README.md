@@ -1,5 +1,6 @@
 # NFT Souvenir Minting App
 
+![souvenirNFTMintingApp](https://user-images.githubusercontent.com/43053791/156301380-3727e6dd-324c-4059-bf33-bf3ee0c0d252.PNG)
 
 
 #1 Angular is used for Front-End.
