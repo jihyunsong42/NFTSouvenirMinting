@@ -1,16 +1,9 @@
-# myapp
+# NFT Souvenir Minting App
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#1 Angular is used for Front-End.
+#2 Django and Django Rest Framework is used to implement back-end server.
+#3 For UI, Bootstrap 4 and Font Awesome 4 were used. HighCharts, Pandas were also used to display charts.
+#4 The main page shows KOSPI stock chart, and if you select other market tabs, the chart changes.
+#5 You can scale in/out stock charts by clicking time units.
