@@ -11,5 +11,8 @@ This app is purposed to be installed near the museum for everyone to be accessib
 I used Klaytn blockchain(EVM Compatible) to implement this.<br>
 #4 Customer scans their wallet QR Code.<br>
 #5 The Client App sends minting request to Back-End server(node.js & express.js)<br>
-#6 The server (Klip App2App SDK was used to implement this.)
+#6 The server (Klip App2App SDK was used to implement this.)<br>
+
+![klip app2app workflow](https://user-images.githubusercontent.com/43053791/156303647-0e6e5c3e-6b58-4503-ae26-73dc5f23ea52.png)
+Klip App2App SDK workflow<br><br>
 #7 I added "Purchase" Function to sell NFTs but it is excluded in this prototype.
